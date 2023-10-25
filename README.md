@@ -69,3 +69,6 @@ If you'd rather see the step-by-step breakdown of the entire application along w
 
 3. Open the provided notebook and execute the cells in sequence.
 
+![Demo GIF](DemoVid.gif)
+
+
