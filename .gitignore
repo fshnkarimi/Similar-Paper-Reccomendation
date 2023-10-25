@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoint folders
+.ipynb_checkpoints/
+
+# OpenAI secret keys
+config.py
+
+# Data
+data/
+
+
+
